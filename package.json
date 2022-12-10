@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "bootstrap-vue": "^2.0.0-rc.19",
     "cors": "^2.8.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-graphql": "^0.6.12",
     "graphql": "^0.13.2",
     "graphql-server-express": "^1.4.0",
